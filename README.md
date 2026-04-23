@@ -27,7 +27,7 @@ airline-sentiment-analysis/
 └── README.md
 ```
 
----
+
 
 ## Pipeline Breakdown
 
@@ -44,7 +44,6 @@ airline-sentiment-analysis/
 | **9. Predict New Tweets** | Live sentiment prediction with confidence scores |
 | **10. Conclusions** | Key takeaways and insights |
 
----
 
 ## Results
 
@@ -57,7 +56,7 @@ airline-sentiment-analysis/
 | **Sentiment Classes** | Positive · Neutral · Negative |
 | **Total Charts Generated** | 13 |
 
----
+
 
 ## ✈️ Airlines Analyzed
 
@@ -68,7 +67,6 @@ airline-sentiment-analysis/
 - US Airways
 - Virgin America
 
----
 
 ## Tech Stack
 
