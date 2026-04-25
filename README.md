@@ -13,7 +13,6 @@
 
 This project performs **multi-class sentiment classification** (Positive / Neutral / Negative) on **14,640 tweets** directed at major US airlines, collected in February 2015. It walks through the complete data science pipeline — from raw data exploration to a live prediction interface.
 
----
 
 ## 📁 Project Structure
 
@@ -78,7 +77,6 @@ airline-sentiment-analysis/
 | **ML Models** | `MultinomialNB`, `LogisticRegression`, `RandomForestClassifier` |
 | **Evaluation** | `classification_report`, `confusion_matrix`, `cross_val_score` |
 
----
 
 ## Getting Started
 
